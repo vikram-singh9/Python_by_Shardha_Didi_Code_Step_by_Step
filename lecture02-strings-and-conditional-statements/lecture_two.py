@@ -100,9 +100,6 @@ elif(marks <= 80 and marks >= 70):
 else:
     print('grade D')
 
-    # nested if else
-
-
 userInput = int(input('enter any number to check even and odd'))
 
 if(userInput % 2 == 0):
