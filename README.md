@@ -1,7 +1,3 @@
-Here's a simple README for your project:  
-
----
-
 # Python by Shardha Didi - Code Step by Step  
 
 This repository contains Python programming lectures taught by **Shardha Didi** in a step-by-step manner.  
