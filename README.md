@@ -9,12 +9,12 @@ This repository contains Python programming lectures taught by **Shardha Didi** 
 3️⃣ **Lecture 03** - Lists and Tuples  
 4️⃣ **Lecture 04** - Dictionary and Set in Python  
 
-🚀 **Further lectures coming soon!**  
+ **Further lectures coming soon!**  
 
 ## 📌 How to Use  
 - Clone the repository:  
   ```sh
-  git clone https://github.com/your-repo-name.git
+  git clone https://github.com/vikram-singh9/Python_by_Shardha_Didi_Code_Step_by_Step.git
   ```
 - Open any lecture file and start learning!  
 
