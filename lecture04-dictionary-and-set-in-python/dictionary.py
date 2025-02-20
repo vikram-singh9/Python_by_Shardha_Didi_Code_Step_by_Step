@@ -74,3 +74,10 @@ print(student["name"]) # => ye galat tarika h error dega lekin small code mn sam
 # inserts the speciefied items to the dictionary!
 student.update({"city" : "umerkot"})
 print(student)
+
+
+
+
+
+
+
