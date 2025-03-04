@@ -20,35 +20,14 @@ while n <= 9:
     n += 1
     print(n*3)
 
-# break and continue in while loop!
-
-# BREAK used to terminate the loop when encountered.
-
-m = 1
-while m <= 5:
-    print(m)
-    if(m==3): # 3 pe break karega aage nhn chlega 
-        break
-    m += 1
-
-# CONTINUE
-# terminates execution in the current iteration and continues excution of the loop with the next iteration.
-
-o = 0
-while o <= 10:
-    if(o==6): # 6 print nhn hoga!
-        o+=1
-        continue # skip in the current iteration (skip karo uske bad aage chalao simple)
-    print(o)
-    o += 1
 
 
-    # FOR LOOP
+# for loop
+# Q1 = print the elements of the following list using a loop
+# [1,4,9,16,25,36,49,64,81,100]
 
-# for loop is used for sequencial travesal. For travesring list, string,tuples etc.
+numbers = [1,4,9,16,25,36,49,64,81,100]
 
-# lets create a list!
-nums = [1,2,3,4,5]
+for el in numbers:
+    print(el)
 
-for val in nums:
-    print(val)

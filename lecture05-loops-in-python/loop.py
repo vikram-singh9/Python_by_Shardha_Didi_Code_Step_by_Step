@@ -18,3 +18,72 @@ while i <= 50:
 # while n >= 0:  infinte loop 
 #     n += 1
 #     print(n)
+
+
+
+
+# break and continue in while loop!
+
+# BREAK used to terminate the loop when encountered.
+
+m = 1
+while m <= 5:
+    print(m)
+    if(m==3): # 3 pe break karega aage nhn chlega 
+        break
+    m += 1
+
+# CONTINUE
+# terminates execution in the current iteration and continues excution of the loop with the next iteration.
+
+o = 0
+while o <= 10:
+    if(o==6): # 6 print nhn hoga!
+        o+=1
+        continue # skip in the current iteration (skip karo uske bad aage chalao simple)
+    print(o)
+    o += 1
+
+
+    # FOR LOOP
+
+# for loop is used for sequencial travesal. For travesring list, string,tuples etc.
+
+# lets create a list!
+actors = ["Tony Stark", "Chris Evans", "Ryan Rynolds","ajay"]
+
+for name in actors: # list mn jo values h wo print hokr aa jayenge
+    print(name)
+
+name = "shardha didi"
+
+for char in name:
+    print(char)
+
+# for loop in tuple
+
+tup = (1,2,3,4) 
+
+for num in tup:
+    print(num)
+
+# KONSA LOOP KAB USE KARNA HAI
+# while loop
+# jb kisi iterator pe hamen kam karna hai uski value ko update krna hai ya koi stopping condition hai..
+
+# for loop
+# jab bhi kisi data type pe traverse karna hai jese list tuple sequence tw ham for loop use kr rhe honge..
+
+
+
+
+
+# FOR LOOP WITH ELSE optional
+# simply ham chahte h jab loop mn kaam khtam ho jaye tow uske baad kuch print karana chaye! that's it
+
+
+str = "VIKRAM"
+for char in str:
+    print(str)
+else:
+    print("end")
