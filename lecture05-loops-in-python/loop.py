@@ -13,3 +13,8 @@ i = 5 # i is iterator here
 while i <= 50:
     print("vikram singh")
     i += 1
+
+# n  =0 
+# while n >= 0:  infinte loop 😁
+#     n += 1
+#     print(n)
