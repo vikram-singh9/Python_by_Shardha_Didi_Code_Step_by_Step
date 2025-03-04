@@ -21,6 +21,7 @@ while n <= 9:
     print(n*3)
 
 # break and continue in while loop!
+
 # BREAK used to terminate the loop when encountered.
 
 m = 1
@@ -40,3 +41,8 @@ while o <= 10:
         continue # skip in the current iteration (skip karo uske bad aage chalao simple)
     print(o)
     o += 1
+
+
+    # FOR LOOP
+
+# for loop is used for sequencial travesal. For travesring list, string,tuples etc.
