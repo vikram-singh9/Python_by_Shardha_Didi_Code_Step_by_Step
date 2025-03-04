@@ -15,6 +15,6 @@ while i <= 50:
     i += 1
 
 # n  =0 
-# while n >= 0:  infinte loop 😁
+# while n >= 0:  infinte loop 
 #     n += 1
 #     print(n)
