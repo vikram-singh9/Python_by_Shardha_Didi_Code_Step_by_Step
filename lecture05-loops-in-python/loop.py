@@ -7,4 +7,9 @@ while count <= 10:
     count += 1
 
 # iteration loop ka chakar lagana (1 iteration means ek baar loop ka chakar lagaya!) 
-# iterator means jis variable ka use use kya chakr lagane k lye
+# iterator means jis variable ka use use kya chakr lagane k lye!
+
+i = 5 # i is iterator here
+while i <= 50:
+    print("vikram singh")
+    i += 1
