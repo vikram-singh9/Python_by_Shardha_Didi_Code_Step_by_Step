@@ -46,3 +46,9 @@ while o <= 10:
     # FOR LOOP
 
 # for loop is used for sequencial travesal. For travesring list, string,tuples etc.
+
+# lets create a list!
+nums = [1,2,3,4,5]
+
+for val in nums:
+    print(val)
