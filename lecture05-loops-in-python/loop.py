@@ -119,4 +119,13 @@ for z in range(1,100,2): # odd nikalne hai
 # PASS statement in loops
 # pass is the null statement that does nothing.it is used as a placeholder for future code.
 
+# for el in range(10):
+#     pass
+
+for po in range(20):
+    pass # loop ko EMPTY chodne k lye pass ka use hoata ha take future mn es loop mn code likh sken
+
+
+print("above loop do nothing")
+
 
