@@ -87,3 +87,26 @@ for char in str:
     print(str)
 else:
     print("end")
+
+
+# Range()
+
+# range functions returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default) , and stops before a specified number!
+
+# range(start?, stop, step?) # ? is optional
+
+for el in range(5): # range (stop)
+    print(el)
+
+seq = range(5)
+print(seq)
+
+for i in seq:
+    print(i)
+
+for l in range(2,20): # range(start, stop)
+    print(l)
+
+for p in range(2,20,3): # range(start, stop, step) step means kitne se badana hai.. 2 5 8 so on
+    print(p)
+
