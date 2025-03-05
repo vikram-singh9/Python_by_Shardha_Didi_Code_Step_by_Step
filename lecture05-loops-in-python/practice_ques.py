@@ -31,3 +31,35 @@ numbers = [1,4,9,16,25,36,49,64,81,100]
 for el in numbers:
     print(el)
 
+
+# filtering numbers
+filter = [1,4,9,16,25,36,49,64,81,100]
+# 25 ko filter krenge 
+x = 25
+for k in filter:
+    if k == x:
+        print("founded",k)
+        k +1 
+
+
+
+# RANGE
+# print 1, 100
+for p in range(101):
+    print(p)
+
+# print 100, 1
+for h in range(100,0, -1):
+    print(h)
+
+# print the multiplication table of a number n!
+
+n = int(input("enter number: "))
+for t in range(1,11): # 1 se 10
+    print(n * t)
+
+
+# PASS statement!
+
+
+

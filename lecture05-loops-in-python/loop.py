@@ -110,3 +110,13 @@ for l in range(2,20): # range(start, stop)
 for p in range(2,20,3): # range(start, stop, step) step means kitne se badana hai.. 2 5 8 so on
     print(p)
 
+for z in range(1,100,2): # odd nikalne hai
+    print(z)
+
+
+
+
+# PASS statement in loops
+# pass is the null statement that does nothing.it is used as a placeholder for future code.
+
+
