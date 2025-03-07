@@ -7,7 +7,8 @@ This repository contains Python programming lectures taught by **Shardha Didi** 
 1️⃣ **Lecture 01** - Variables and Data Types  
 2️⃣ **Lecture 02** - Strings and Conditional Statements  
 3️⃣ **Lecture 03** - Lists and Tuples  
-4️⃣ **Lecture 04** - Dictionary and Set in Python  
+4️⃣ **Lecture 04** - Dictionary and Set in Python
+4️⃣ **Lecture 05** - Loops in Python  
 
  **Further lectures coming soon!**  
 
